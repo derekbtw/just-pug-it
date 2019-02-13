@@ -1,7 +1,7 @@
 {
   "name": "pugify",
   "version": "1.0.0",
-  "description": "Pug/SCSS project starter",
+  "description": "Pug/SCSS project starter with live-reload",
   "main": "index.html",
   "scripts": {
     "test": "test"

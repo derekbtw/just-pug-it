@@ -1,6 +1,6 @@
 {
   "name": "pugify",
-  "description": "Pug/SCSS project starter",
+  "description": "Pug/SCSS project starter with live-reload",
   "main": "index.html",
   "license": "MIT",
   "homepage": "https://github.io/derekbtw/pugify",
