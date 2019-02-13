@@ -1,0 +1,15 @@
+{
+  "name": "pugify",
+  "description": "Pug/SCSS project starter",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "https://github.io/derekbtw/pugify",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

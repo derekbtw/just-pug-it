@@ -1,0 +1,34 @@
+{
+  "name": "pugify",
+  "version": "1.0.0",
+  "description": "Pug/SCSS project starter",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derekbtw/pugify.git"
+  },
+  "keywords": [
+    "pug",
+    "sass",
+    "scss",
+    "gulp"
+  ],
+  "author": "Derek Bytheway",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/derekbtw/pugstrap/issues"
+  },
+  "homepage": "https://github.com/derekbtw/pugify#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-bower": "0.0.14",
+    "gulp-watch": "^5.0.1",
+    "gulp-connect": "^5.7.0",
+    "gulp-watch-pug": "^1.0.0"
+  }
+}
