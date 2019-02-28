@@ -27,7 +27,7 @@ $ npm i just-pug-it
 
 ---
 
-## To Do
+## To do
 
 - CLI intigration
 - Think of some badass features to implement
