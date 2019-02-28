@@ -34,4 +34,4 @@ $ npm i just-pug-it
 
 ---
 
-Just-Pug-It loves you <3
+**Just-Pug-It loves you <3**
