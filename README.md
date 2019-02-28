@@ -15,11 +15,11 @@ Lastly...
 $ gulp
 ```
 
-Gulp will now watch for changes in the pug and scss directories with live-reload. Woot.
+Gulp will now watch for changes in the `views` and `scss` directories with live-reload, yo.
 
 ## NPM
 
-Alternatively, you can also install into an existing project from NPM (because why not, yo?).
+Alternatively, you can also install into an existing project from NPM.
 
 ```sh
 $ npm i just-pug-it

@@ -1,6 +1,6 @@
 {
   "name": "just-pug-it",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Pug/SCSS project starter with live-reload",
   "main": "index.html",
   "scripts": {
