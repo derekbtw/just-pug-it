@@ -23,6 +23,10 @@ Alternatively, you can also install into an existing project from NPM.
 
 ```sh
 $ npm i just-pug-it
+
+# or
+
+$ yarn add just-pug-it
 ```
 
 ---
