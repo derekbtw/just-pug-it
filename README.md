@@ -19,7 +19,7 @@ Gulp will now watch for changes in the pug and scss directories with live-reload
 
 ## NPM
 
-Alternatively, you can also install into an existing project using NPM (because why not, yo?).
+Alternatively, you can also install into an existing project from NPM (because why not, yo?).
 
 ```sh
 $ npm i just-pug-it
