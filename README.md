@@ -6,7 +6,7 @@ Pug/SCSS project starter with live-reload
 ```sh
 $ npm install
 
-or
+# or
 
 $ yarn
 ```
