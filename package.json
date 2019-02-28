@@ -1,5 +1,5 @@
 {
-  "name": "pugify",
+  "name": "pug-it",
   "version": "1.0.0",
   "description": "Pug/SCSS project starter with live-reload",
   "main": "index.html",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/derekbtw/pugify.git"
+    "url": "git+https://github.com/derekbtw/pug-it.git"
   },
   "keywords": [
     "pug",
@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/derekbtw/pugstrap/issues"
   },
-  "homepage": "https://github.com/derekbtw/pugify#readme",
+  "homepage": "https://github.com/derekbtw/pug-it#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-pug": "^3.3.0",
