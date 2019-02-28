@@ -25,6 +25,8 @@ Alternatively, you can also install into an existing project from NPM (because w
 $ npm i just-pug-it
 ```
 
+---
+
 ## To Do
 
 - CLI intigration
