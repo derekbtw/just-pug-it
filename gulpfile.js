@@ -6,7 +6,7 @@ var gulp_watch_pug = require('gulp-watch-pug');
 var connect = require('gulp-connect');
 
 var config = {
-    publicDir: './public'
+    publicDir: 'public'
 }
 
 gulp.task('connect', function() {
@@ -17,7 +17,7 @@ gulp.task('connect', function() {
 });
 
 gulp.task('sass', function() {
-    return gulp.src('./scss/*.scss')
+    return gulp.src('scss/*.scss')
         .pipe(sass({ 
             errLogToConsole: true
         }))
@@ -25,21 +25,21 @@ gulp.task('sass', function() {
 });
 
 gulp.task('views', function buildHTML() {
-    gulp.src('pug/*.pug')
-        .pipe(watch('pug/*.pug'))
-        .pipe(gulp_watch_pug('pug/*.pug', { delay: 100 }))
+    gulp.src('views/*.pug')
+        .pipe(watch('views/*.pug'))
+        .pipe(gulp_watch_pug('views/*.pug', { delay: 100 }))
         .pipe(pug())
-        .pipe(gulp.dest('./public'));
+        .pipe(gulp.dest('public'));
 });
 
 gulp.task('livereload', function() {
-    gulp.src('./public/**/*')
+    gulp.src('public/**/*')
     .pipe(connect.reload());
 });
 
 gulp.task('watch', function() {
-    gulp.watch('./scss/**/*.scss', ['sass']);
-    gulp.watch('./pug/**/*.pug', ['views']);
+    gulp.watch('scss/**/*.scss', ['sass']);
+    gulp.watch('views/**/*.pug', ['views']);
     gulp.watch(config.publicDir + '/**/*', ['livereload']);
 });
 
