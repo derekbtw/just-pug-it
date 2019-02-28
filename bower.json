@@ -1,9 +1,9 @@
 {
-  "name": "pug-it",
+  "name": "just-pug-it",
   "description": "Pug/SCSS project starter with live-reload",
   "main": "index.html",
   "license": "MIT",
-  "homepage": "https://github.io/derekbtw/pug-it",
+  "homepage": "https://github.io/derekbtw/just-pug-it",
   "private": true,
   "ignore": [
     "**/.*",
