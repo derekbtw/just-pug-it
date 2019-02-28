@@ -30,7 +30,6 @@ $ npm i just-pug-it
 ## To do
 
 - CLI intigration
-- Think of some badass features to implement
 
 ---
 
