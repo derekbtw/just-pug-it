@@ -1,5 +1,5 @@
 # Just Pug It!
-Pug/SCSS project starter with live-reload
+Pug/SCSS project starter with live-reload. No extra CSS frameworks or anything like that are included. Just a plain and simple bare-bones project starter.
 
 ## Getting started
 
