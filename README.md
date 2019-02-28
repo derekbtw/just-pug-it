@@ -6,11 +6,11 @@ Pug/SCSS project starter with live-reload
 ```sh
 $ npm install
 ```
-or
+(or)
 ```sh
 $ yarn
 ```
-
+Lastly...
 ```sh
 $ gulp
 ```
