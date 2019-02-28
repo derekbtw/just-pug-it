@@ -1,4 +1,4 @@
-# Pugify
+# Pug It!
 Pug/SCSS project starter with live-reload
 
 ## Getting started
@@ -11,4 +11,6 @@ $ yarn
 $ gulp
 ```
 
-Gulp will now watch for changes in the pug and scss directories with live-reload.
+Gulp will now watch for changes in the pug and scss directories with live-reload. Woot.
+
+Pug-It loves you.
