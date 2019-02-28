@@ -1,8 +1,12 @@
-# Pug It!
+# Just Pug It!
 Pug/SCSS project starter with live-reload
 
 ## Getting started
 
+```sh
+$ npm install
+```
+or
 ```sh
 $ yarn
 ```
@@ -13,4 +17,4 @@ $ gulp
 
 Gulp will now watch for changes in the pug and scss directories with live-reload. Woot.
 
-Pug-It loves you.
+Just-Pug-It loves you.
