@@ -24,13 +24,13 @@
   },
   "homepage": "https://github.com/derekbtw/just-pug-it-chf#readme",
   "devDependencies": {
+    "codyhouse-framework": "git+https://github.com/CodyHouse/codyhouse-framework.git",
     "gulp": "^3.9.1",
+    "gulp-bower": "0.0.13",
+    "gulp-connect": "^5.0.0",
     "gulp-pug": "^3.3.0",
     "gulp-sass": "^3.1.0",
-    "gulp-bower": "0.0.13",
     "gulp-watch": "^4.3.11",
-    "gulp-connect": "^5.0.0",
-    "gulp-watch-pug": "^1.0.0",
-    "codyhouse-framework": "git+https://github.com/CodyHouse/codyhouse-framework"
+    "gulp-watch-pug": "^1.0.0"
   }
 }

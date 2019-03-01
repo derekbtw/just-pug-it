@@ -1,4 +1,4 @@
-# Just Pug It! Add CodyHouse Framework... written in Pug!
+# Just Pug It! With CodyHouse Framework... written in Pug!
 Pug/SCSS project starter with live-reload implemented with CodyHouse Framework.
 
 ## Getting started
