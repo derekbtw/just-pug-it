@@ -1,5 +1,5 @@
 {
-  "name": "just-pug-it",
+  "name": "just-pug-it-chf",
   "version": "1.0.2",
   "description": "Just Pug It! Add CodyHouse Framework... written in Pug!",
   "main": "index.html",
@@ -30,6 +30,7 @@
     "gulp-bower": "0.0.13",
     "gulp-watch": "^4.3.11",
     "gulp-connect": "^5.0.0",
-    "gulp-watch-pug": "^1.0.0"
+    "gulp-watch-pug": "^1.0.0",
+    "codyhouse-framework": "git+https://github.com/CodyHouse/codyhouse-framework"
   }
 }
