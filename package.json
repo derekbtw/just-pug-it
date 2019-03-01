@@ -1,27 +1,28 @@
 {
   "name": "just-pug-it",
   "version": "1.0.2",
-  "description": "Pug/SCSS project starter with live-reload",
+  "description": "Just Pug It! Add CodyHouse Framework... written in Pug!",
   "main": "index.html",
   "scripts": {
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/derekbtw/just-pug-it.git"
+    "url": "https://github.com/derekbtw/just-pug-it.git"
   },
   "keywords": [
     "pug",
     "sass",
     "scss",
-    "gulp"
+    "gulp",
+    "codyhouse-framework"
   ],
   "author": "Derek Bytheway",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/derekbtw/just-pug-it/issues"
+    "url": "https://github.com/derekbtw/just-pug-it/tree/chf/issues"
   },
-  "homepage": "https://github.com/derekbtw/just-pug-it#readme",
+  "homepage": "https://github.com/derekbtw/just-pug-it-chf#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-pug": "^3.3.0",
